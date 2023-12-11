@@ -1,0 +1,6 @@
+[submodule "instagram-clone-frontend"]
+	path = instagram-clone-frontend
+	url = https://github.com/devsargam/instagram-clone-frontend
+[submodule "Instagram-Clone-Backend"]
+	path = Instagram-Clone-Backend
+	url = https://github.com/devsargam/Instagram-Clone-Backend
